@@ -1,6 +1,6 @@
-![Delta_Showitem](https://github.com/user-attachments/assets/428750cc-5750-4eb6-a5a2-14eff61c0104)
+![Delta_Showitem](https://github.com/user-attachments/assets/3b2b83f1-71dd-4857-8a19-7636d6374f10)
 
-# Preview: https://www.youtube.com/watch?v=ekLAwPq-4d8
+# Preview: [https://www.youtube.com/watch?v=ekLAwPq-4d8](https://youtu.be/iSLsu6mdNxA)
 
 ## Features:
 
