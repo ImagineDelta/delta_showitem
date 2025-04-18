@@ -4,7 +4,7 @@
 
 ## Features:
 
-• Show Full Inventory: ### Players can reveal their entire inventory & items to others within a configurable distance.
+• Show Full Inventory: Players can reveal their entire inventory & items to others within a configurable distance.
 
 • Show Specific Item: Use a custom command to show items from inventory slots 1-5.
 
